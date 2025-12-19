@@ -1,6 +1,0 @@
-package movielibrary;
-
-public enum Genre {
-	 ACTION, COMEDIE, DRAME, HORREUR, SCIENCE_FICTION, 
-	    ROMANCE, THRILLER, ANIMATION, AVENTURE, FANTASTIQUE
-}
